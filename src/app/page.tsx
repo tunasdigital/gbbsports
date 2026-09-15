@@ -1,4 +1,4 @@
-﻿const photos = [
+const photos = [
   "1.jpeg","3.jpeg","4.jpeg","6.jpeg","7.jpeg","8.jpeg","9.jpeg","10.jpeg","11.jpeg",
   "12.jpeg","13.jpeg","14.jpeg","15.jpeg","17.jpeg","18.jpeg","19.jpeg","20.jpeg","21.jpeg"
 ];
@@ -18,7 +18,7 @@ export default function Home() {
           <a href="#pais">Pais</a>
         </nav>
 
-        <a className="topCta" href="https://wa.me/5547988467208">
+        <a className="topCta" href="https://wa.me/554797667474">
           Inscrições
         </a>
       </header>
@@ -42,7 +42,7 @@ export default function Home() {
           </p>
 
           <div className="actions">
-            <a href="https://wa.me/5547988467208">Quero fazer parte</a>
+            <a href="https://wa.me/554797667474">Quero fazer parte</a>
             <a className="outline" href="#modalidades">Conhecer modalidades</a>
           </div>
 
@@ -134,7 +134,7 @@ export default function Home() {
             Cada treino é uma oportunidade para aprender respeito, responsabilidade,
             amizade, cooperação e superação.
           </p>
-          <a href="https://wa.me/5547988467208">Falar com o Prof. André</a>
+          <a href="https://wa.me/554797667474">Falar com o Prof. André</a>
         </div>
 
         <img src="/images/galeria/21.jpeg" alt="GBB Sports" />
@@ -144,7 +144,7 @@ export default function Home() {
         <img src="/images/1.png" alt="GBB Sports" />
         <h2>GBB Sports</h2>
         <p>Escolinha de esportes para alunos do Colégio Adventista de Itajaí.</p>
-        <strong>Prof. André — (47) 98846-7208</strong>
+        <strong>Prof. André — (47) 9766-7474</strong>
         <small>© 2026 GBB Sports. Todos os direitos reservados.</small>
       </footer>
     </main>
